@@ -91,6 +91,10 @@ go vet ./...
 go test -v ./...
 ```
 
+## Credits
+
+This application was created using **Vibecode** with the **Gemini 4 Hydrogen** model.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
